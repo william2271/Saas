@@ -60,7 +60,7 @@ function App() {
           <span className="badge">AI Resume Analyzer</span>
           <h1>Improve your resume with intelligent guidance</h1>
           <p>
-            Paste your resume, add a target job description, and get tailored improvement tips.
+            Drag or paste your resume, add a target job description, and get tailored improvement tips.
             Your Spring Boot backend will connect to Claude or ChatGPT for AI-powered analysis.
           </p>
         </div>
