@@ -41,11 +41,13 @@
             <artifactId>jackson-databind</artifactId>
         </dependency>
 
-        <!-- HTTP Client for AI API calls -->
+        <!-- HTTP Client for AI API calls (commented out for now) -->
+        <!--
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-webflux</artifactId>
         </dependency>
+        -->
 
         <!-- Configuration Processor -->
         <dependency>
